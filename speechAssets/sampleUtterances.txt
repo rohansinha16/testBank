@@ -1,0 +1,7 @@
+WithdrawIntent I want to withdraw {amount} dollars
+WithdrawIntent take out {amount} dollars
+DepositIntent I want to deposit {amount} dollars
+DepositIntent can you deposit {amount} dollars
+CheckIntent how much do I have in my account
+CheckIntent what are my savings
+CheckIntent how much money do I have

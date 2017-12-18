@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "WithdrawIntent",
+      "slots": [
+       		{
+              "name": "amount",
+              "type": "AMAZON.NUMBER"
+            }
+      ]
+    }, {
+      "intent": "DepositIntent",
+      "slots": [
+       		{
+              "name": "amount",
+              "type": "AMAZON.NUMBER"
+            }
+      ]
+    }, {
+      "intent": "CheckIntent"
+    }
+  ]
+}
