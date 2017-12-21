@@ -19,5 +19,11 @@
     }, {
       "intent": "CheckIntent"
     }
+    , {
+      "intent": "AMAZON.HelpIntent"
+    }
+    , {
+      "intent": "AMAZON.StopIntent"
+    }
   ]
 }

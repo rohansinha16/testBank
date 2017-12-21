@@ -5,3 +5,5 @@ DepositIntent can you deposit {amount} dollars
 CheckIntent how much do I have in my account
 CheckIntent what are my savings
 CheckIntent how much money do I have
+AMAZON.HelpIntent what are my options
+AMAZON.HelpIntent what can I do
